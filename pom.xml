@@ -39,6 +39,6 @@
       <url>sftp://propellers.net/maven</url>
       <layout></layout>
     </snapshotRepository>
-    ...
+    
   </distributionManagement>
 </project>
