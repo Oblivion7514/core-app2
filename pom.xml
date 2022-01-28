@@ -37,7 +37,7 @@
       <id>propSnap</id>
       <name>Propellors Snapshots</name>
       <url>sftp://propellers.net/maven</url>
-      <layout>legacy</layout>
+      <layout></layout>
     </snapshotRepository>
     ...
   </distributionManagement>
